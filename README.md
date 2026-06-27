@@ -1,8 +1,8 @@
-# Smad1 Protects the Remodeling Infarcted Heart, Stimulating a Fibrosis-Restraining Myofibroblast Subpopulation. Hanna et al., Circulation, 2026.
+# Smad1 Protects the Remodeling Infarcted Heart, Stimulating a Fibrosis-Restraining Myofibroblast Subpopulation. Hanna et al.
 **scRNA-seq Integrative Analysis Pipeline**
 
 This repository contains the code required to reproduce the single-cell RNA sequencing (scRNA-seq) integration, clustering, and functional enrichment analysis for the manuscript: 
-*"Smad1 Protects the Remodeling Infarcted Heart, Stimulating a Fibrosis-Restraining Myofibroblast Subpopulation"* (Hanna et al., Circulation, 2026).
+*"Smad1 Protects the Remodeling Infarcted Heart, Stimulating a Fibrosis-Restraining Myofibroblast Subpopulation"*
 
 ## Overview
 To comprehensively investigate cardiac fibroblast heterogeneity and Smad1 pathway activity during myocardial infarction healing, we performed an integrative analysis of two distinct publicly available scRNA-seq datasets. 
